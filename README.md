@@ -1,42 +1,50 @@
 <div align="center">
 
-# Hi, I'm Griox Ngo 👋
-### Backend Engineer | DevOps & SRE Enthusiast
+# Hi, I'm Huy Ngo 👋
+### Software Engineer | Backend & DevOps/SRE
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN_CUA_BAN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huyngoinfo)
+[![LinkedIn](https://www.linkedin.com/in/quang-huy-ngo-014778332/)
+[![GitHub](https://github.com/griox)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngoquanghuy1603@gmail.com)
 
 ---
 
-*"Building scalable, production-grade distributed systems with a focus on reliability and automation."*
+*"Passionate about architecting high-availability distributed systems and automating the SDLC."*
 
 </div>
 
-## 🧠 Core Expertise
-- **Architectures**: Microservices, Clean Architecture, CQRS, Event-Driven Design.
-- **Backend Stack**: .NET 8, ASP.NET Core, gRPC, SignalR, Node.js.
-- **Distributed Systems**: RabbitMQ, MassTransit, Redis, Quartz.NET.
-- **Infrastructure & SRE**: Kubernetes (K3s), Docker, GitHub Actions CI/CD (Matrix Builds, Automated Rollback).
+## 🛠 Technical Toolbox
 
-## 🚀 Featured Projects
+### 🏗 Architecture & Backend
+- **Frameworks:** ASP.NET Core 8, Node.js, Express.js, Spring Boot.
+- **Patterns:** Microservices, Clean Architecture, CQRS (MediatR), DDD.
+- **Communication:** gRPC, RESTful APIs, SignalR (Real-time).
+- **Messaging:** RabbitMQ, MassTransit (Event-Driven).
 
-### [BunBo System](https://bun-bo-chung-cu.io.vn)
-**Enterprise-grade Restaurant Management & Ordering System**
-- **Architecture**: 8 specialized Microservices with YARP API Gateway.
-- **Infrastructure**: Deployed on **Kubernetes (K3s)** with automated healing and matrix CI/CD pipelines.
-- **Key Tech**: .NET 8, gRPC, RabbitMQ, Redis, Next.js 16.
+### ☁️ Infrastructure & DevOps
+- **Orchestration:** Kubernetes (K3s), Docker, Helm.
+- **CI/CD:** GitHub Actions (Matrix Builds, Automated Rollback).
+- **Cloud/Infra:** DigitalOcean, Nginx Ingress, S3/MinIO Storage.
+- **Observability:** Centralized Logging (Serilog/Seq).
 
-### [Energy Contract System](https://github.com/huyngoinfo)
-**Distributed Energy & Utilities Management**
-- **Highlights**: Implemented complex business workflows using MediatR Pipeline Behaviors and automated PDF generation pipelines with PuppeteerSharp stored in S3/MinIO.
+### 🎨 Frontend & Mobile
+- **Core:** Next.js 16, React 19, TypeScript.
+- **State/Data:** Zustand, TanStack Query v5.
+- **Styling:** Tailwind CSS v4, Material UI (MUI).
 
-## 📊 GitHub Stats
+### 🗄 Databases & Tools
+- **RDBMS/NoSQL:** PostgreSQL, SQL Server, MySQL, MongoDB, Redis.
+- **Scheduling:** Quartz.NET.
+- **Testing:** Unit Testing (xUnit/NUnit).
+
+## 📊 Performance & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyngoinfo&show_icons=true&theme=tokyonight" alt="Huy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=huyngoinfo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyngoinfo&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 <div align="center">
-  <sub>© 2026 Huy Ngo. Designed for high-performance and scalability.</sub>
+  <sub>Focused on building robust solutions with modern tech stacks.</sub>
 </div>
