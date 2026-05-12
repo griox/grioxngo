@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Huy Ngo 👋
+# Hi, I'm Griox Ngo 👋
 ### Software Engineer | Backend & DevOps/SRE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-huy-ngo-014778332/)
@@ -37,12 +37,7 @@
 - **Scheduling:** Quartz.NET.
 - **Testing:** Unit Testing (xUnit/NUnit).
 
-## 📊 Performance & Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyngoinfo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyngoinfo&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+
 
 ---
 <div align="center">
